@@ -1,4 +1,4 @@
-Hello, everyone! 👋
+# Hello, everyone! 👋
 
 Today, I'm sharing a simplified guide to CI/CD, covering the essentials of `Continuous Integration` and `Continuous Deployment`. But, there's more to CD than meets the eye - we'll also touch on the often-overlooked aspect of `Continuous Delivery`. Whether you're new to the concept or looking to brush up, this post will help you understand CI/CD in an easy-to-grasp way. Let's get started! 🌟
 
@@ -11,7 +11,7 @@ Today, I'm sharing a simplified guide to CI/CD, covering the essentials of `Cont
 - If a book has errors, the librarian sends it back to the author for corrections.
 - Once all books are error-free, the librarian creates a master copy (`build`) and stores it in the library.
 
-![Continuous Integration](../diagrams/Continous Integration.svg)
+![Continuous Integration](../diagrams/Continous%20Integration.svg)
 
 **Key Takeaway:** `CI` ensures that individual code changes are integrated into a central repository, and automated processes verify that the code is correct and functional.
 
