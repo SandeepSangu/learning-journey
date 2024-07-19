@@ -24,6 +24,8 @@ Today, I'm sharing a simplified guide to CI/CD, covering the essentials of `Cont
 - If a dish is not up to standard, the kitchen staff sends it back to the chef for rework.
 - Once a dish is approved, it's immediately served to customers.
 
+![Continuous Deployment](diagrams/ContinuousDeployment.svg)
+
 **Key Takeaway:** `CD` automates the deployment of code changes to production, ensuring that only validated and tested code reaches the end-users.
 
 ## 🏭 Continuous Delivery (CD)
