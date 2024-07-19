@@ -11,7 +11,7 @@ Today, I'm sharing a simplified guide to CI/CD, covering the essentials of `Cont
 - If a book has errors, the librarian sends it back to the author for corrections.
 - Once all books are error-free, the librarian creates a master copy (`build`) and stores it in the library.
 
-![Continuous Integration](../diagrams/Continous%20Integration.svg)
+![Continuous Integration](diagrams/ContinuousIntegration.svg)
 
 **Key Takeaway:** `CI` ensures that individual code changes are integrated into a central repository, and automated processes verify that the code is correct and functional.
 
