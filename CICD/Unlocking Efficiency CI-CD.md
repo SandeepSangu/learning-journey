@@ -71,7 +71,7 @@ Here are some popular tools to help you implement CI/CD in your projects:
 
 ## 🎉 Conclusion
 
-Thanks for reading! If you found this post helpful, please share it with your network.
+Thanks for reading! If you found this helpful, please share it with your network.
 
 By breaking down complex concepts into smaller chunks and using relatable examples, I hope to have made it easier for you to understand and learn about `Continuous Integration`, `Continuous Deployment`, and `Continuous Delivery`.
 

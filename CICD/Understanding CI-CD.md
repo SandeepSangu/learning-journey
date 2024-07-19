@@ -47,6 +47,6 @@ Today, I'm sharing a simplified guide to CI/CD, covering the essentials of `Cont
 
 I hope these analogies have helped you understand the basics of `CI/CD`. My goal is to make complex concepts simple and easy to grasp. 😊
 
-Thanks for reading! If you found this post helpful, please share it with your network. Happy learning! 👨‍💻👩‍💻
+Thanks for reading! If you found this helpful, please share it with your network. Happy learning! 👨‍💻👩‍💻
 
 Now that we've explored the world of `CI/CD` through analogies, you should have a solid grasp of what these concepts entail. In the next post, let's dive into the actual definitions, `benefits`, and `best practices` of CI/CD. I'll also introduce some popular CI/CD tools. Stay tuned! 📘🔧✨
