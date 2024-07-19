@@ -37,6 +37,8 @@ Today, I'm sharing a simplified guide to CI/CD, covering the essentials of `Cont
 - The packaged product is then stored in a warehouse (`repository`) until it's ready to be shipped to customers (`production`).
 - When the product is shipped, the factory receives feedback from customers, which is used to improve the production process.
 
+![Continuous Delivery](diagrams/ContinuousDelivery.svg)
+
 **Key Takeaway:** `CD` ensures that code changes are built, tested, and packaged into a releasable product, which can be deployed to production at any time. It's a bridge between CI and CD.
 
 ---
