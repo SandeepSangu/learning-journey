@@ -119,3 +119,16 @@ This example illustrates how the Scrum framework can be applied to a complex pro
 - **Increased Transparency** 🔎: Agile's emphasis on regular progress updates and open communication ensures that stakeholders are informed and aligned throughout the project.
 - **Risk Reduction** ⚠️: Agile's iterative approach helps identify and mitigate risks earlier in the project, reducing the likelihood of project failures.
 - **Improved Team Morale** 💪: Agile's focus on teamwork, recognition, and continuous improvement boosts team morale and motivation, leading to a more productive and engaged team.
+
+## Popular Agile-Scrum Tools 🛠️
+
+- [Jira by Atlassian](https://www.atlassian.com/software/jira) - Agile project management tool
+- [Confluence by Atlassian - Documentation](https://www.atlassian.com/software/confluence)
+- [Trello](https://trello.com/tour) - Visual collaboration tool for planning tasks and projects
+
+## Further Reading 📚
+
+- [Atlassian: What is Agile?](https://www.atlassian.com/agile)
+- [Atlassian: Scrum](https://www.atlassian.com/agile/scrum)
+- [Atlassian: Agile Advantage](https://www.atlassian.com/agile/advantage)
+- [Atlassian: Kanban](https://www.atlassian.com/agile/kanban)
