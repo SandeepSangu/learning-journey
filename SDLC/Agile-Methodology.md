@@ -44,7 +44,7 @@ Agile is not a single methodology, but rather a set of values and principles tha
 
 ## Scrum Framework 🏉
 
-The Scrum framework consists of three roles, three ceremonies, and three artifacts.
+The Scrum framework consists of three roles, five ceremonies, and artifacts.
 
 ### Roles 👥
 
@@ -80,6 +80,16 @@ The Scrum framework consists of three roles, three ceremonies, and three artifac
 - Time-boxed event to review the product increment
 - Stakeholders provide feedback, and the team adapts
 
+#### 4. Sprint Retrospective 🔄
+
+- Time-boxed event to reflect on the sprint and identify improvements
+- Team discusses what went well, what didn't, and how to improve
+
+#### 5. Backlog Refinement 📋
+
+- Ongoing process to keep the product backlog updated
+- Team reviews and revises items in the backlog to ensure they are ready for future sprints
+
 ### Artifacts 📦
 
 #### 1. Product Backlog 📃
@@ -96,6 +106,8 @@ The Scrum framework consists of three roles, three ceremonies, and three artifac
 
 - Sum of all product backlog items completed during a sprint
 - Reviewed during the Sprint Review ceremony
+
+**FYI**: There are additional extended artifacts in Scrum, such as the Definition of Done and Burn-Down Chart. For more information, check the further reading section.
 
 ## Example 🏠
 
@@ -132,3 +144,4 @@ This example illustrates how the Scrum framework can be applied to a complex pro
 - [Atlassian: Scrum](https://www.atlassian.com/agile/scrum)
 - [Atlassian: Agile Advantage](https://www.atlassian.com/agile/advantage)
 - [Atlassian: Kanban](https://www.atlassian.com/agile/kanban)
+- [Atlassian: Scrum Artifacts](https://www.atlassian.com/agile/scrum/artifacts)
