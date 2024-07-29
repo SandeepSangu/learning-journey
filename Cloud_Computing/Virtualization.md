@@ -6,9 +6,13 @@
 
 In the past, each server was dedicated to a single application, with its own operating system. This approach wasted resources, was costly, and made management complex.
 
+![Traditional Deployment](diagrams/Traditional%20Deployment.jpg)
+
 ## Virtualization Way 🚀
 
 With `virtualization`, a single physical server runs a `hypervisor`, creating multiple virtual machines. Each VM runs its own operating system and application, just like the traditional setup, but with greater `flexibility` and `efficiency`. The hypervisor manages resources, making it easy to scale and manage applications.
+
+![Virtualization Deployment](diagrams/Virtualization%20Deployment.jpg)
 
 ### The Benefits of Virtualization 🌟
 
@@ -55,12 +59,23 @@ Let's see how this actually works:
 
 1. **Hypervisors** 🛠️
    Hypervisors are software that creates and manages virtual machines. They can be classified into two types:
-   - **Type 1 (Bare-Metal):** Runs directly on the physical hardware.
-   - **Type 2 (Hosted):** Runs on a host operating system.
+   - **Type 1 (Bare-Metal):** Runs directly on the `physical hardware`.
+   - **Type 2 (Hosted):** Runs on a `host operating system`.
+
+     ![Hypervisors](diagrams/Hypervisors.jpg)
 
 2. **Containers** 🐳
-   Containers are lightweight virtualization technologies that package applications and their dependencies into a single unit. They provide isolation and portability, making it easy to deploy applications across different environments.
+   `Containers` are lightweight virtualization technologies that package applications and their dependencies into a `single unit`. They provide isolation and portability, making it easy to deploy applications across different environments.
+
+   ![Containerization Deployment](diagrams/Containerization%20Deployment.jpg)
 
 ## Conclusion 🎯
 
 In conclusion, `virtualization` is a transformative technology that revolutionizes the way we use computing resources. By enabling `efficient resource utilization`, `scalability`, and `flexibility`, virtualization plays a crucial role in modern IT infrastructure and cloud computing. Understanding the various types of virtualization and their benefits allows us to unlock the full potential of computing infrastructure, `driving innovation` and `efficiency` in `digital world`.
+
+## Further Reading 🔍
+
+- [AWS: What is Virtualization?](https://aws.amazon.com/what-is/virtualization/)
+- [IBM: Virtualization](https://www.ibm.com/topics/virtualization)
+- [Microsoft Azure: What is Virtualization?](https://azure.microsoft.com/en-in/resources/cloud-computing-dictionary/what-is-virtualization)
+- [VMware: Virtualization](https://www.vmware.com/solutions/cloud-infrastructure/virtualization)
