@@ -6,7 +6,7 @@ You stream your music from the internet, and voilà! You're enjoying your tunes 
 
 ## Definition 📚
 
-Cloud computing is the delivery of computing services over the internet `("the cloud")`, including storage, processing, and software, on a pay-as-you-go basis.
+Cloud computing is the delivery of computing services over the internet `("the cloud")`, including storage, processing, and software, on a `pay-as-you-go` basis.
 
 ### Benefits of Cloud Computing 🌟
 
